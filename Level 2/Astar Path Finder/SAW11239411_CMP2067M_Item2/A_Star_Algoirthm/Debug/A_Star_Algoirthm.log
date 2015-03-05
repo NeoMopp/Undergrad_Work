@@ -1,0 +1,24 @@
+﻿Build started 02/05/2013 14:18:45.
+     1>Project "C:\Users\Will\Dropbox\University\Level 2\CMP2067m Advanced Software Development\Assignments\Assignment 2\SAW11239411_CMP2067M_Item2_Test\A_Star_Algoirthm\A_Star_Algoirthm.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\A_Star_Algoirthm.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Will\Dropbox\University\Level 2\CMP2067m Advanced Software Development\Assignments\Assignment 2\SAW11239411_CMP2067M_Item2_Test\Debug\A_Star_Algoirthm.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\A_Star_Algoirthm.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Will\Dropbox\University\Level 2\CMP2067m Advanced Software Development\Assignments\Assignment 2\SAW11239411_CMP2067M_Item2_Test\Debug\A_Star_Algoirthm.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Will\Dropbox\University\Level 2\CMP2067m Advanced Software Development\Assignments\Assignment 2\SAW11239411_CMP2067M_Item2_Test\Debug\A_Star_Algoirthm.lib" /MACHINE:X86 Debug\Grid.obj
+         Debug\Main.obj
+         Debug\Node.obj
+         Debug\readTXT.obj
+         LINK : C:\Users\Will\Dropbox\University\Level 2\CMP2067m Advanced Software Development\Assignments\Assignment 2\SAW11239411_CMP2067M_Item2_Test\Debug\A_Star_Algoirthm.exe not found or not built by the last incremental link; performing full link
+         A_Star_Algoirthm.vcxproj -> C:\Users\Will\Dropbox\University\Level 2\CMP2067m Advanced Software Development\Assignments\Assignment 2\SAW11239411_CMP2067M_Item2_Test\Debug\A_Star_Algoirthm.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Will\Dropbox\University\Level 2\CMP2067m Advanced Software Development\Assignments\Assignment 2\SAW11239411_CMP2067M_Item2_Test\Debug\A_Star_Algoirthm.exe;#1" /manifest Debug\A_Star_Algoirthm.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\A_Star_Algoirthm.unsuccessfulbuild".
+         Touching "Debug\A_Star_Algoirthm.lastbuildstate".
+     1>Done Building Project "C:\Users\Will\Dropbox\University\Level 2\CMP2067m Advanced Software Development\Assignments\Assignment 2\SAW11239411_CMP2067M_Item2_Test\A_Star_Algoirthm\A_Star_Algoirthm.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.35

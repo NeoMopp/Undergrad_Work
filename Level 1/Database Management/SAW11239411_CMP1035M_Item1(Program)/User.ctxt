@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=msg
+comment0.target=void\ message(String)
+comment0.text=\nDisplay\ a\ message\ in\ a\ dialog\ box\ -\ NB\ error\ status\ always\ false\n@param\ \ msg\ \ message\ to\ be\ displayed\n\n
+comment1.params=prompt
+comment1.target=int\ inputInt(String)
+comment1.text=\nDisplay\ a\ prompt\ and\ read\ an\ int\ value\n@param\ prompt\ prompt\ to\ be\ displayed\n@return\ value\ input\ by\ user\ -\ if\ invalid\ format,\ error\ flag\ is\ set\ and\ zero\ returned\n\n
+comment2.params=prompt
+comment2.target=float\ inputFloat(String)
+comment2.text=\nDisplay\ a\ prompt\ and\ read\ a\ float\ value\n@param\ \ prompt\ \ \ prompt\ to\ be\ displayed\n@return\ \ \ \ \ \ value\ input\ by\ user\ -\ if\ invalid\ format,\ error\ flag\ is\ set\ and\ 0.0F\ returned\n\n
+comment3.params=prompt
+comment3.target=String\ inputString(String)
+comment3.text=\nDisplay\ a\ prompt\ and\ read\ a\ String\n@param\ \ prompt\ \ \ prompt\ to\ be\ displayed\n@return\ \ \ \ \ \ string\ input\ by\ user,\ possibly\ zero\ length,\ never\ null\n-\ NB\ error\ is\ always\ false\ on\ return\n\n
+comment4.params=prompt
+comment4.target=char\ inputChar(String)
+comment4.text=\nDisplay\ a\ prompt\ and\ read\ a\ single\ character\n@param\ \ prompt\ \ \ prompt\ to\ be\ displayed\n@return\ \ \ \ \ \ value\ input\ by\ user\ -\ if\ invalid\ format\ i.e.\ more\ or\nless\ than\ a\ single\ character,\ error\ flag\ is\ set\ and\ a\ space\ character\ returned\n\n
+comment5.target=boolean\ error()
+comment5.text=\nIndicates\ whether\ a\ format\ error\ occurred\ on\ last\ operation\n@return\ \ \ \ \ \ error\ status\n\n
+comment6.target=String\ errorInput()
+comment6.text=\nReturns\ input\ string\ which\ yielded\ most\ recent\ error\ status\ -\ NB\ \nmeaningful\ only\ when\ error()\ is\ true\n@return\ \ \ \ \ \ raw\ string\ input\ by\ user\n\n
+comment7.target=String\ errorMsg()
+comment7.text=\nReturns\ a\ simle\ description\ of\ nature\ of\ most\ recent\ error\ status\ -\ NB\ \nmeaningful\ only\ when\ error()\ is\ true\n@return\ \ \ \ \ \ error\ message\n\n
+numComments=8

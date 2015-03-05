@@ -1,0 +1,10 @@
+c:\users\will\documents\visual studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\will\documents\visual studio 2010\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+c:\users\will\documents\visual studio 2010\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+c:\users\will\documents\visual studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.exe
+c:\users\will\documents\visual studio 2010\Projects\Assignment1\Assignment1\obj\x86\Debug\Assignment1.pdb
+F:\CMP1001m Software Development\Assessments\SAW11239411_CMP1001M_Item1\Assignment1\obj\x86\Debug\Assignment1.exe
+F:\CMP1001m Software Development\Assessments\SAW11239411_CMP1001M_Item1\Assignment1\obj\x86\Debug\Assignment1.pdb
+F:\CMP1001m Software Development\Assessments\SAW11239411_CMP1001M_Item1\Assignment1\bin\Debug\Assignment1.exe
+F:\CMP1001m Software Development\Assessments\SAW11239411_CMP1001M_Item1\Assignment1\bin\Debug\Assignment1.pdb
+F:\CMP1001m Software Development\Assessments\SAW11239411_CMP1001M_Item1\Assignment1\obj\x86\Debug\ResolveAssemblyReference.cache
